@@ -70,6 +70,35 @@ def get_average_color(image, bounding_box):
     return avg_color
 
 
+from PIL import Image, ImageDraw, ImageStat
+
+
+def get_dominant_color(image, bounding_box, palette_size=16):
+    """
+    Get the dominant (colour occurring with the highest pixel frequency) of a bounding box area in the image.
+    
+    Args:
+        image (PIL.Image.Image): The image object.
+        bounding_box (list): The bounding box coordinates.
+        palette_size (int): The size of the color palette to reduce the image to.
+    
+    Returns:
+        tuple: The dominant color (R, G, B).
+    """
+
+    cropped_image = image.crop((min(bounding_box[::2]), min(bounding_box[1::2]), max(bounding_box[::2]), max(bounding_box[1::2])))
+    
+    # Crop, resize and use the palette to identify the dominant colour
+    cropped_image.thumbnail((400, 400))
+    paletted = cropped_image.convert('P', palette=Image.ADAPTIVE, colors=palette_size)
+    palette = paletted.getpalette()
+    color_counts = sorted(paletted.getcolors(), reverse=True)
+    palette_index = color_counts[0][1]
+    dominant_color = palette[palette_index*3:palette_index*3+3]
+    
+    return tuple(dominant_color),cropped_image
+
+
 def get_text_color(bg_color):
     """
     Determine the grayscale color for text based on background color.
@@ -82,6 +111,8 @@ def get_text_color(bg_color):
     """
     luminance = (0.299 * bg_color[0] + 0.587 * bg_color[1] + 0.114 * bg_color[2]) / 255
     return (0, 0, 0) if luminance > 0.5 else (255, 255, 255)
+
+
 
 
 def warp_image_to_bounding_box(image, bounding_box, image_width, image_height):

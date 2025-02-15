@@ -1,0 +1,2332 @@
+{
+    "images/AIStudio.png": [
+        [
+            {
+                "text": "Azure Al Studio",
+                "bounding_box": [
+                    677,
+                    83,
+                    1242,
+                    83,
+                    1242,
+                    152,
+                    676,
+                    151
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "<",
+                "bounding_box": [
+                    973,
+                    282,
+                    993,
+                    283,
+                    994,
+                    308,
+                    973,
+                    308
+                ],
+                "confidence": 0.218
+            },
+            {
+                "text": "Explore",
+                "bounding_box": [
+                    92,
+                    486,
+                    212,
+                    486,
+                    212,
+                    526,
+                    92,
+                    526
+                ],
+                "confidence": 0.991
+            },
+            {
+                "text": "Compare",
+                "bounding_box": [
+                    277,
+                    486,
+                    429,
+                    487,
+                    429,
+                    525,
+                    277,
+                    524
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Evaluate",
+                "bounding_box": [
+                    490,
+                    486,
+                    626,
+                    486,
+                    626,
+                    521,
+                    490,
+                    521
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Improve",
+                "bounding_box": [
+                    690,
+                    489,
+                    830,
+                    489,
+                    830,
+                    525,
+                    690,
+                    525
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Integrate",
+                "bounding_box": [
+                    905,
+                    488,
+                    1052,
+                    487,
+                    1052,
+                    525,
+                    905,
+                    526
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Test",
+                "bounding_box": [
+                    1129,
+                    487,
+                    1193,
+                    487,
+                    1192,
+                    518,
+                    1129,
+                    519
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Review",
+                "bounding_box": [
+                    1264,
+                    486,
+                    1376,
+                    487,
+                    1375,
+                    519,
+                    1264,
+                    519
+                ],
+                "confidence": 0.996
+            },
+            {
+                "text": "Deploy",
+                "bounding_box": [
+                    1446,
+                    486,
+                    1559,
+                    488,
+                    1557,
+                    526,
+                    1445,
+                    524
+                ],
+                "confidence": 0.997
+            },
+            {
+                "text": "Monitor",
+                "bounding_box": [
+                    1627,
+                    486,
+                    1759,
+                    487,
+                    1758,
+                    519,
+                    1627,
+                    519
+                ],
+                "confidence": 0.996
+            },
+            {
+                "text": "Unified Al Platform",
+                "bounding_box": [
+                    605,
+                    675,
+                    1238,
+                    677,
+                    1238,
+                    744,
+                    605,
+                    742
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "End-to-end Al Journey for Al Developers",
+                "bounding_box": [
+                    464,
+                    814,
+                    1340,
+                    815,
+                    1340,
+                    869,
+                    464,
+                    867
+                ],
+                "confidence": 0.993
+            }
+        ],
+        [
+            "Azure Al Studio",
+            "<",
+            "Explorar",
+            "Comparar",
+            "Evaluar",
+            "Mejorar",
+            "Integrar",
+            "Probar",
+            "Revisar",
+            "Desplegar",
+            "Monitorear",
+            "Plataforma Unificada de IA",
+            "Viaje de IA de principio a fin para desarrolladores de IA"
+        ]
+    ],
+    "images/Phi3getstarted.png": [
+        [
+            {
+                "text": "Open Source with MIT License",
+                "bounding_box": [
+                    126,
+                    18,
+                    884,
+                    16,
+                    884,
+                    71,
+                    126,
+                    74
+                ],
+                "confidence": 0.988
+            },
+            {
+                "text": "Phi-3-mini",
+                "bounding_box": [
+                    7,
+                    302,
+                    105,
+                    302,
+                    105,
+                    320,
+                    7,
+                    321
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Phi-3-vision",
+                "bounding_box": [
+                    143,
+                    302,
+                    250,
+                    302,
+                    250,
+                    321,
+                    143,
+                    320
+                ],
+                "confidence": 0.99
+            },
+            {
+                "text": "Phi-3-small",
+                "bounding_box": [
+                    287,
+                    302,
+                    386,
+                    302,
+                    386,
+                    321,
+                    287,
+                    320
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "Phi-3-medium",
+                "bounding_box": [
+                    414,
+                    302,
+                    542,
+                    302,
+                    542,
+                    321,
+                    414,
+                    321
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Phi-3.5-mini",
+                "bounding_box": [
+                    581,
+                    303,
+                    682,
+                    303,
+                    682,
+                    322,
+                    581,
+                    323
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Phi-3.5-vision",
+                "bounding_box": [
+                    734,
+                    303,
+                    841,
+                    304,
+                    841,
+                    323,
+                    734,
+                    322
+                ],
+                "confidence": 0.99
+            },
+            {
+                "text": "Phi-3.5-MoE",
+                "bounding_box": [
+                    887,
+                    303,
+                    984,
+                    304,
+                    984,
+                    322,
+                    887,
+                    322
+                ],
+                "confidence": 0.976
+            },
+            {
+                "text": "(3.8B)",
+                "bounding_box": [
+                    38,
+                    324,
+                    79,
+                    325,
+                    77,
+                    341,
+                    38,
+                    341
+                ],
+                "confidence": 0.989
+            },
+            {
+                "text": "(4.2B)",
+                "bounding_box": [
+                    176,
+                    323,
+                    219,
+                    324,
+                    218,
+                    342,
+                    176,
+                    342
+                ],
+                "confidence": 0.983
+            },
+            {
+                "text": "(7B)",
+                "bounding_box": [
+                    326,
+                    324,
+                    353,
+                    326,
+                    352,
+                    342,
+                    325,
+                    342
+                ],
+                "confidence": 0.99
+            },
+            {
+                "text": "(14B)",
+                "bounding_box": [
+                    458,
+                    323,
+                    497,
+                    323,
+                    497,
+                    341,
+                    458,
+                    341
+                ],
+                "confidence": 0.991
+            },
+            {
+                "text": "(3.8B)",
+                "bounding_box": [
+                    616,
+                    325,
+                    653,
+                    326,
+                    653,
+                    342,
+                    616,
+                    342
+                ],
+                "confidence": 0.99
+            },
+            {
+                "text": "(4.2B)",
+                "bounding_box": [
+                    768,
+                    325,
+                    809,
+                    326,
+                    807,
+                    341,
+                    768,
+                    341
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "(6.6B active /",
+                "bounding_box": [
+                    890,
+                    324,
+                    978,
+                    324,
+                    978,
+                    342,
+                    890,
+                    341
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "42B total)",
+                "bounding_box": [
+                    903,
+                    342,
+                    969,
+                    343,
+                    969,
+                    360,
+                    903,
+                    359
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Instruction Tuned",
+                "bounding_box": [
+                    96,
+                    432,
+                    393,
+                    430,
+                    394,
+                    466,
+                    96,
+                    468
+                ],
+                "confidence": 0.989
+            },
+            {
+                "text": "RAI Safety Aligned",
+                "bounding_box": [
+                    586,
+                    431,
+                    903,
+                    430,
+                    903,
+                    472,
+                    586,
+                    473
+                ],
+                "confidence": 0.93
+            },
+            {
+                "text": "Available on",
+                "bounding_box": [
+                    393,
+                    512,
+                    620,
+                    513,
+                    620,
+                    550,
+                    393,
+                    550
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "GitHub",
+                "bounding_box": [
+                    419,
+                    691,
+                    571,
+                    691,
+                    570,
+                    735,
+                    419,
+                    734
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "Azure Al",
+                "bounding_box": [
+                    196,
+                    725,
+                    300,
+                    725,
+                    300,
+                    750,
+                    195,
+                    750
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "Model Catalog",
+                "bounding_box": [
+                    152,
+                    758,
+                    341,
+                    759,
+                    341,
+                    788,
+                    152,
+                    787
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "Model Catalog",
+                "bounding_box": [
+                    407,
+                    743,
+                    594,
+                    744,
+                    594,
+                    772,
+                    407,
+                    770
+                ],
+                "confidence": 0.997
+            },
+            {
+                "text": "Hugging Face",
+                "bounding_box": [
+                    663,
+                    743,
+                    841,
+                    741,
+                    842,
+                    772,
+                    663,
+                    773
+                ],
+                "confidence": 0.996
+            },
+            {
+                "text": "NVIDIA",
+                "bounding_box": [
+                    336,
+                    877,
+                    430,
+                    877,
+                    430,
+                    900,
+                    336,
+                    900
+                ],
+                "confidence": 0.959
+            },
+            {
+                "text": "ONNX Runtime",
+                "bounding_box": [
+                    106,
+                    927,
+                    278,
+                    928,
+                    277,
+                    951,
+                    106,
+                    950
+                ],
+                "confidence": 0.989
+            },
+            {
+                "text": "NVIDIA NIM",
+                "bounding_box": [
+                    325,
+                    928,
+                    458,
+                    928,
+                    458,
+                    951,
+                    325,
+                    951
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Ollama",
+                "bounding_box": [
+                    517,
+                    920,
+                    598,
+                    921,
+                    598,
+                    944,
+                    517,
+                    943
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "LMStudio",
+                "bounding_box": [
+                    643,
+                    921,
+                    749,
+                    921,
+                    749,
+                    945,
+                    643,
+                    945
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "VSCode Al Toolkit",
+                "bounding_box": [
+                    776,
+                    922,
+                    973,
+                    922,
+                    973,
+                    946,
+                    776,
+                    946
+                ],
+                "confidence": 0.994
+            }
+        ],
+        [
+            "C\u00f3digo Abierto con Licencia MIT",
+            "Phi-3-mini",
+            "Phi-3-visi\u00f3n",
+            "Phi-3-peque\u00f1o",
+            "Phi-3-mediano",
+            "Phi-3.5-mini",
+            "Phi-3.5-visi\u00f3n",
+            "Phi-3.5-MoE",
+            "(3.8B)",
+            "(4.2B)",
+            "(7B)",
+            "(14B)",
+            "(3.8B)",
+            "(4.2B)",
+            "(6.6B activos /",
+            "42B en total)",
+            "Ajustado para Instrucciones",
+            "Alineado con Seguridad de RAI",
+            "Disponible en",
+            "GitHub",
+            "Azure AI",
+            "Cat\u00e1logo de Modelos",
+            "Cat\u00e1logo de Modelos",
+            "Hugging Face",
+            "NVIDIA",
+            "Tiempo de Ejecuci\u00f3n ONNX",
+            "NVIDIA NIM",
+            "Ollama",
+            "LMStudio",
+            "Kit de Herramientas de VSCode AI"
+        ]
+    ],
+    "images/demo.png": [
+        [
+            {
+                "text": "3:05",
+                "bounding_box": [
+                    22,
+                    21,
+                    111,
+                    21,
+                    110,
+                    58,
+                    23,
+                    58
+                ],
+                "confidence": 0.984
+            },
+            {
+                "text": "i .",
+                "bounding_box": [
+                    231,
+                    26,
+                    231,
+                    51,
+                    213,
+                    52,
+                    212,
+                    26
+                ],
+                "confidence": 0.66
+            },
+            {
+                "text": "MTK Phi-3.5 Inference",
+                "bounding_box": [
+                    46,
+                    141,
+                    697,
+                    140,
+                    698,
+                    202,
+                    46,
+                    203
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "Responses generated by Microsoft phi-3.5",
+                "bounding_box": [
+                    132,
+                    301,
+                    949,
+                    300,
+                    949,
+                    347,
+                    132,
+                    349
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "User",
+                "bounding_box": [
+                    953,
+                    394,
+                    1031,
+                    397,
+                    1029,
+                    430,
+                    952,
+                    428
+                ],
+                "confidence": 0.988
+            },
+            {
+                "text": "Can you introduce yourself",
+                "bounding_box": [
+                    375,
+                    511,
+                    984,
+                    509,
+                    984,
+                    560,
+                    375,
+                    562
+                ],
+                "confidence": 0.999
+            },
+            {
+                "text": "Phi-3.5",
+                "bounding_box": [
+                    43,
+                    646,
+                    171,
+                    645,
+                    171,
+                    681,
+                    43,
+                    683
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Hello! I'm Phi, an Al digital",
+                "bounding_box": [
+                    95,
+                    758,
+                    690,
+                    759,
+                    690,
+                    813,
+                    94,
+                    810
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "assistant developed by Microsoft.",
+                "bounding_box": [
+                    91,
+                    831,
+                    863,
+                    831,
+                    863,
+                    884,
+                    91,
+                    885
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "I'm here to help answer your",
+                "bounding_box": [
+                    95,
+                    904,
+                    734,
+                    905,
+                    734,
+                    958,
+                    95,
+                    956
+                ],
+                "confidence": 0.959
+            },
+            {
+                "text": "questions and assist you with a",
+                "bounding_box": [
+                    94,
+                    978,
+                    812,
+                    977,
+                    813,
+                    1028,
+                    94,
+                    1031
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "variety of tasks.",
+                "bounding_box": [
+                    92,
+                    1051,
+                    459,
+                    1050,
+                    459,
+                    1099,
+                    92,
+                    1100
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "<|end_of_turn|>",
+                "bounding_box": [
+                    95,
+                    1194,
+                    442,
+                    1194,
+                    442,
+                    1241,
+                    95,
+                    1240
+                ],
+                "confidence": 0.819
+            },
+            {
+                "text": "<|user|>What is the primary",
+                "bounding_box": [
+                    96,
+                    1338,
+                    715,
+                    1339,
+                    714,
+                    1391,
+                    96,
+                    1388
+                ],
+                "confidence": 0.724
+            },
+            {
+                "text": "function of Phi?",
+                "bounding_box": [
+                    94,
+                    1408,
+                    457,
+                    1408,
+                    457,
+                    1456,
+                    94,
+                    1456
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "<|end_of_turn|>",
+                "bounding_box": [
+                    94,
+                    1483,
+                    443,
+                    1482,
+                    443,
+                    1529,
+                    94,
+                    1530
+                ],
+                "confidence": 0.704
+            },
+            {
+                "text": "<|assistant|>As an artificial",
+                "bounding_box": [
+                    96,
+                    1553,
+                    718,
+                    1550,
+                    718,
+                    1603,
+                    96,
+                    1604
+                ],
+                "confidence": 0.727
+            },
+            {
+                "text": "intelligence, Phi is primarily",
+                "bounding_box": [
+                    92,
+                    1625,
+                    720,
+                    1625,
+                    720,
+                    1678,
+                    92,
+                    1677
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "designed to assist users by",
+                "bounding_box": [
+                    92,
+                    1697,
+                    721,
+                    1697,
+                    721,
+                    1749,
+                    92,
+                    1749
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "answering questions and",
+                "bounding_box": [
+                    92,
+                    1769,
+                    668,
+                    1766,
+                    668,
+                    1820,
+                    92,
+                    1822
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "providing information. I can help",
+                "bounding_box": [
+                    93,
+                    1838,
+                    835,
+                    1837,
+                    835,
+                    1894,
+                    93,
+                    1896
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "with a range of tasks such as:",
+                "bounding_box": [
+                    96,
+                    1913,
+                    774,
+                    1913,
+                    774,
+                    1966,
+                    96,
+                    1968
+                ],
+                "confidence": 0.988
+            },
+            {
+                "text": "Message",
+                "bounding_box": [
+                    82,
+                    2102,
+                    291,
+                    2102,
+                    291,
+                    2152,
+                    82,
+                    2151
+                ],
+                "confidence": 0.996
+            }
+        ],
+        [
+            "3:05",
+            "Yo.",
+            "Inferencia MTK Phi-3.5",
+            "Respuestas generadas por Microsoft phi-3.5",
+            "Usuario",
+            "\u00bfPuedes presentarte?",
+            "Phi-3.5",
+            "\u00a1Hola! Soy Phi, un asistente",
+            "digital de IA desarrollado por Microsoft.",
+            "Estoy aqu\u00ed para ayudar a responder tus",
+            "preguntas y asistirte con una",
+            "variedad de tareas.",
+            "<|end_of_turn|>",
+            "<|usuario|>\u00bfCu\u00e1l es la funci\u00f3n",
+            "principal de Phi?",
+            "<|end_of_turn|>",
+            "<|asistente|>Como inteligencia",
+            "artificial, Phi est\u00e1 principalmente",
+            "dise\u00f1ado para asistir a los usuarios",
+            "respondiendo preguntas y",
+            "proporcionando informaci\u00f3n. Puedo ayudar",
+            "con una variedad de tareas como:",
+            "Mensaje"
+        ]
+    ],
+    "images/00-01-architecture.png": [
+        [
+            {
+                "text": "Azure AI / ML Studio",
+                "bounding_box": [
+                    2531,
+                    171,
+                    3922,
+                    173,
+                    3922,
+                    327,
+                    2531,
+                    325
+                ],
+                "confidence": 0.997
+            },
+            {
+                "text": "Fine-tune Phi-3",
+                "bounding_box": [
+                    349,
+                    754,
+                    1418,
+                    747,
+                    1419,
+                    888,
+                    349,
+                    894
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "Deploy the model",
+                "bounding_box": [
+                    1819,
+                    743,
+                    3033,
+                    739,
+                    3034,
+                    906,
+                    1819,
+                    912
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Set up Prompt flow",
+                "bounding_box": [
+                    3469,
+                    749,
+                    4772,
+                    747,
+                    4772,
+                    913,
+                    3469,
+                    914
+                ],
+                "confidence": 0.996
+            },
+            {
+                "text": "Chat with Phi-3",
+                "bounding_box": [
+                    5141,
+                    754,
+                    6159,
+                    744,
+                    6160,
+                    885,
+                    5141,
+                    897
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Properties",
+                "bounding_box": [
+                    214,
+                    1667,
+                    602,
+                    1667,
+                    602,
+                    1753,
+                    214,
+                    1756
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Graph",
+                "bounding_box": [
+                    3151,
+                    1591,
+                    3357,
+                    1597,
+                    3353,
+                    1674,
+                    3151,
+                    1678
+                ],
+                "confidence": 0.997
+            },
+            {
+                "text": "Chat \u00ae",
+                "bounding_box": [
+                    4751,
+                    1620,
+                    5013,
+                    1620,
+                    5014,
+                    1698,
+                    4751,
+                    1702
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "\u00d7",
+                "bounding_box": [
+                    6442,
+                    1613,
+                    6535,
+                    1617,
+                    6535,
+                    1694,
+                    6442,
+                    1694
+                ],
+                "confidence": 0.668
+            },
+            {
+                "text": "Status",
+                "bounding_box": [
+                    217,
+                    1850,
+                    425,
+                    1855,
+                    422,
+                    1925,
+                    217,
+                    1922
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Created by",
+                "bounding_box": [
+                    1662,
+                    1843,
+                    2013,
+                    1847,
+                    2012,
+                    1932,
+                    1662,
+                    1929
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "inputs",
+                "bounding_box": [
+                    3782,
+                    1829,
+                    3976,
+                    1831,
+                    3973,
+                    1905,
+                    3782,
+                    1906
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Completed",
+                "bounding_box": [
+                    320,
+                    1954,
+                    662,
+                    1952,
+                    663,
+                    2024,
+                    320,
+                    2028
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "Song Minseok",
+                "bounding_box": [
+                    1653,
+                    1943,
+                    2167,
+                    1944,
+                    2166,
+                    2034,
+                    1653,
+                    2033
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Who founded Microsoft?",
+                "bounding_box": [
+                    5245,
+                    1953,
+                    5987,
+                    1953,
+                    5987,
+                    2038,
+                    5245,
+                    2040
+                ],
+                "confidence": 0.999
+            },
+            {
+                "text": "Created on",
+                "bounding_box": [
+                    224,
+                    2127,
+                    585,
+                    2130,
+                    585,
+                    2204,
+                    223,
+                    2202
+                ],
+                "confidence": 0.996
+            },
+            {
+                "text": "Job type",
+                "bounding_box": [
+                    1660,
+                    2123,
+                    1938,
+                    2124,
+                    1937,
+                    2209,
+                    1659,
+                    2207
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "Jul 12, 2024 12:40 PM",
+                "bounding_box": [
+                    218,
+                    2221,
+                    997,
+                    2221,
+                    997,
+                    2306,
+                    218,
+                    2307
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "Pipeline",
+                "bounding_box": [
+                    1660,
+                    2220,
+                    1946,
+                    2222,
+                    1946,
+                    2310,
+                    1660,
+                    2308
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "integrate_with_promptflow",
+                "bounding_box": [
+                    3527,
+                    2352,
+                    4365,
+                    2352,
+                    4365,
+                    2438,
+                    3527,
+                    2438
+                ],
+                "confidence": 0.933
+            },
+            {
+                "text": "Microsoft was founded by Bill Gates",
+                "bounding_box": [
+                    4873,
+                    2330,
+                    5934,
+                    2329,
+                    5934,
+                    2404,
+                    4873,
+                    2406
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Start time",
+                "bounding_box": [
+                    207,
+                    2401,
+                    545,
+                    2404,
+                    544,
+                    2481,
+                    207,
+                    2479
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "Experiment",
+                "bounding_box": [
+                    1657,
+                    2403,
+                    2031,
+                    2404,
+                    2031,
+                    2483,
+                    1657,
+                    2482
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "Jul 12, 2024 12:40 PM",
+                "bounding_box": [
+                    211,
+                    2496,
+                    997,
+                    2497,
+                    997,
+                    2585,
+                    211,
+                    2585
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "ChatCompletion",
+                "bounding_box": [
+                    1662,
+                    2493,
+                    2247,
+                    2496,
+                    2247,
+                    2592,
+                    1662,
+                    2589
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "V Completed",
+                "bounding_box": [
+                    3428,
+                    2491,
+                    3848,
+                    2494,
+                    3847,
+                    2575,
+                    3427,
+                    2571
+                ],
+                "confidence": 0.664
+            },
+            {
+                "text": "and Paul Allen on April 4, 1975.",
+                "bounding_box": [
+                    4884,
+                    2419,
+                    5794,
+                    2419,
+                    5794,
+                    2503,
+                    4884,
+                    2503
+                ],
+                "confidence": 0.997
+            },
+            {
+                "text": "Time spent: 0.77 sec",
+                "bounding_box": [
+                    4830,
+                    2589,
+                    5347,
+                    2592,
+                    5346,
+                    2659,
+                    4829,
+                    2657
+                ],
+                "confidence": 0.978
+            },
+            {
+                "text": "Duration",
+                "bounding_box": [
+                    214,
+                    2679,
+                    507,
+                    2681,
+                    507,
+                    2761,
+                    214,
+                    2760
+                ],
+                "confidence": 0.991
+            },
+            {
+                "text": "Arguments",
+                "bounding_box": [
+                    1658,
+                    2683,
+                    2020,
+                    2681,
+                    2021,
+                    2761,
+                    1658,
+                    2765
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "32m 18.27s",
+                "bounding_box": [
+                    216,
+                    2778,
+                    628,
+                    2781,
+                    627,
+                    2861,
+                    216,
+                    2860
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "None",
+                "bounding_box": [
+                    1654,
+                    2779,
+                    1864,
+                    2784,
+                    1856,
+                    2856,
+                    1654,
+                    2856
+                ],
+                "confidence": 0.992
+            },
+            {
+                "text": "Compute duration",
+                "bounding_box": [
+                    219,
+                    2957,
+                    809,
+                    2957,
+                    809,
+                    3041,
+                    219,
+                    3042
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Registered models",
+                "bounding_box": [
+                    1662,
+                    2961,
+                    2252,
+                    2960,
+                    2253,
+                    3039,
+                    1662,
+                    3044
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "outputs",
+                "bounding_box": [
+                    3773,
+                    2939,
+                    4009,
+                    2940,
+                    4009,
+                    3012,
+                    3773,
+                    3010
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "32m 18.27s",
+                "bounding_box": [
+                    219,
+                    3051,
+                    628,
+                    3054,
+                    627,
+                    3143,
+                    219,
+                    3142
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "None",
+                "bounding_box": [
+                    1664,
+                    3059,
+                    1870,
+                    3065,
+                    1862,
+                    3138,
+                    1664,
+                    3141
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Input anything to test ...",
+                "bounding_box": [
+                    4983,
+                    3000,
+                    5632,
+                    3000,
+                    5632,
+                    3073,
+                    4983,
+                    3074
+                ],
+                "confidence": 0.983
+            },
+            {
+                "text": "0 >",
+                "bounding_box": [
+                    6267,
+                    3022,
+                    6530,
+                    3025,
+                    6533,
+                    3112,
+                    6267,
+                    3115
+                ],
+                "confidence": 0.512
+            }
+        ],
+        [
+            "Azure AI / ML Studio",
+            "Ajustar Phi-3",
+            "Desplegar el modelo",
+            "Configurar flujo de solicitud",
+            "Chatear con Phi-3",
+            "Propiedades",
+            "Gr\u00e1fico",
+            "Chat \u00ae",
+            "\u00d7",
+            "Estado",
+            "Creado por",
+            "entradas",
+            "Completado",
+            "Song Minseok",
+            "\u00bfQui\u00e9n fund\u00f3 Microsoft?",
+            "Creado en",
+            "Tipo de trabajo",
+            "Jul 12, 2024 12:40 PM",
+            "Tuber\u00eda",
+            "integrar_con_promptflow",
+            "Microsoft fue fundado por Bill Gates",
+            "Hora de inicio",
+            "Experimento",
+            "Jul 12, 2024 12:40 PM",
+            "ChatCompletion",
+            "V Completado",
+            "y Paul Allen el 4 de abril de 1975.",
+            "Tiempo empleado: 0.77 seg",
+            "Duraci\u00f3n",
+            "Argumentos",
+            "32m 18.27s",
+            "Ninguno",
+            "Duraci\u00f3n de c\u00f3mputo",
+            "Modelos registrados",
+            "salidas",
+            "32m 18.27s",
+            "Ninguno",
+            "Introduce cualquier cosa para probar ...",
+            "0 >"
+        ]
+    ],
+    "images/RAIPrinciples.png": [
+        [
+            {
+                "text": "Microsoft's Responsible Al principles",
+                "bounding_box": [
+                    314,
+                    70,
+                    1248,
+                    71,
+                    1247,
+                    130,
+                    314,
+                    126
+                ],
+                "confidence": 0.989
+            },
+            {
+                "text": "Fairness",
+                "bounding_box": [
+                    204,
+                    434,
+                    336,
+                    436,
+                    335,
+                    468,
+                    203,
+                    467
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Reliability",
+                "bounding_box": [
+                    543,
+                    433,
+                    701,
+                    435,
+                    700,
+                    472,
+                    543,
+                    469
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Privacy &",
+                "bounding_box": [
+                    893,
+                    430,
+                    1043,
+                    430,
+                    1043,
+                    474,
+                    893,
+                    474
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "Inclusiveness",
+                "bounding_box": [
+                    1213,
+                    434,
+                    1425,
+                    435,
+                    1425,
+                    466,
+                    1213,
+                    465
+                ],
+                "confidence": 0.991
+            },
+            {
+                "text": "& Safety",
+                "bounding_box": [
+                    552,
+                    472,
+                    692,
+                    473,
+                    692,
+                    510,
+                    552,
+                    509
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Security",
+                "bounding_box": [
+                    904,
+                    472,
+                    1037,
+                    474,
+                    1037,
+                    512,
+                    904,
+                    510
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Transparency",
+                "bounding_box": [
+                    684,
+                    630,
+                    901,
+                    631,
+                    900,
+                    675,
+                    684,
+                    674
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Accountability",
+                "bounding_box": [
+                    674,
+                    797,
+                    911,
+                    798,
+                    911,
+                    838,
+                    674,
+                    837
+                ],
+                "confidence": 0.993
+            }
+        ],
+        [
+            "Principios de IA Responsable de Microsoft",
+            "Justicia",
+            "Fiabilidad",
+            "Privacidad y",
+            "Inclusi\u00f3n",
+            "y Seguridad",
+            "Seguridad",
+            "Transparencia",
+            "Responsabilidad"
+        ]
+    ],
+    "images/RAIPrinciples_tilt2.jpeg": [
+        [
+            {
+                "text": "Reliability",
+                "bounding_box": [
+                    389,
+                    238,
+                    548,
+                    226,
+                    551,
+                    264,
+                    392,
+                    278
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Inclusiveness",
+                "bounding_box": [
+                    1058,
+                    160,
+                    1269,
+                    138,
+                    1272,
+                    167,
+                    1062,
+                    193
+                ],
+                "confidence": 0.987
+            },
+            {
+                "text": "Fairness",
+                "bounding_box": [
+                    57,
+                    284,
+                    187,
+                    271,
+                    190,
+                    302,
+                    60,
+                    315
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Privacy &",
+                "bounding_box": [
+                    738,
+                    198,
+                    890,
+                    182,
+                    895,
+                    221,
+                    741,
+                    238
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "& Safety",
+                "bounding_box": [
+                    405,
+                    278,
+                    544,
+                    267,
+                    547,
+                    303,
+                    408,
+                    315
+                ],
+                "confidence": 0.942
+            },
+            {
+                "text": "Security",
+                "bounding_box": [
+                    756,
+                    236,
+                    887,
+                    225,
+                    890,
+                    261,
+                    759,
+                    273
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Transparency",
+                "bounding_box": [
+                    560,
+                    422,
+                    771,
+                    403,
+                    774,
+                    439,
+                    563,
+                    459
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Accountability",
+                "bounding_box": [
+                    567,
+                    586,
+                    802,
+                    560,
+                    805,
+                    596,
+                    571,
+                    622
+                ],
+                "confidence": 0.993
+            }
+        ],
+        [
+            "Fiabilidad",
+            "Inclusi\u00f3n",
+            "Justicia",
+            "Privacidad y",
+            "y Seguridad",
+            "Seguridad",
+            "Transparencia",
+            "Responsabilidad"
+        ]
+    ],
+    "images/RAIPrinciples_tilt1.jpeg": [
+        [
+            {
+                "text": "Microsoft's Responsible Al principles",
+                "bounding_box": [
+                    68,
+                    1255,
+                    68,
+                    313,
+                    133,
+                    314,
+                    129,
+                    1256
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Fairness",
+                "bounding_box": [
+                    434,
+                    1360,
+                    435,
+                    1229,
+                    469,
+                    1229,
+                    468,
+                    1360
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Reliability",
+                "bounding_box": [
+                    434,
+                    1024,
+                    436,
+                    863,
+                    473,
+                    864,
+                    469,
+                    1025
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Privacy &",
+                "bounding_box": [
+                    433,
+                    672,
+                    433,
+                    518,
+                    471,
+                    518,
+                    469,
+                    673
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Inclusiveness",
+                "bounding_box": [
+                    435,
+                    350,
+                    436,
+                    138,
+                    467,
+                    138,
+                    466,
+                    350
+                ],
+                "confidence": 0.99
+            },
+            {
+                "text": "& Safety",
+                "bounding_box": [
+                    471,
+                    1016,
+                    475,
+                    874,
+                    512,
+                    875,
+                    508,
+                    1017
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Security",
+                "bounding_box": [
+                    470,
+                    663,
+                    475,
+                    529,
+                    511,
+                    530,
+                    507,
+                    664
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "Transparency",
+                "bounding_box": [
+                    633,
+                    879,
+                    637,
+                    664,
+                    671,
+                    664,
+                    666,
+                    879
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Accountability",
+                "bounding_box": [
+                    796,
+                    888,
+                    799,
+                    653,
+                    837,
+                    653,
+                    833,
+                    888
+                ],
+                "confidence": 0.993
+            }
+        ],
+        [
+            "Principios de IA Responsable de Microsoft",
+            "Equidad",
+            "Fiabilidad",
+            "Privacidad &",
+            "Inclusi\u00f3n",
+            "& Seguridad",
+            "Protecci\u00f3n",
+            "Transparencia",
+            "Responsabilidad"
+        ]
+    ],
+    "images/demo_tilt.jpeg": [
+        [
+            {
+                "text": "MTK Phi-3.5 Inference",
+                "bounding_box": [
+                    47,
+                    0,
+                    696,
+                    21,
+                    693,
+                    83,
+                    44,
+                    53
+                ],
+                "confidence": 0.998
+            },
+            {
+                "text": "Responses generated by Microsoft phi-3.5",
+                "bounding_box": [
+                    124,
+                    157,
+                    941,
+                    192,
+                    939,
+                    244,
+                    121,
+                    203
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "U",
+                "bounding_box": [
+                    939,
+                    286,
+                    957,
+                    287,
+                    957,
+                    330,
+                    937,
+                    328
+                ],
+                "confidence": 0.987
+            },
+            {
+                "text": "Can you introduce yourself",
+                "bounding_box": [
+                    358,
+                    375,
+                    965,
+                    404,
+                    963,
+                    455,
+                    355,
+                    428
+                ],
+                "confidence": 0.999
+            },
+            {
+                "text": "Phi-3.5",
+                "bounding_box": [
+                    19,
+                    492,
+                    146,
+                    498,
+                    145,
+                    535,
+                    17,
+                    529
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Hello! I'm Phi, an Al digital",
+                "bounding_box": [
+                    59,
+                    611,
+                    656,
+                    641,
+                    653,
+                    694,
+                    56,
+                    661
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "assistant developed by Microsoft.",
+                "bounding_box": [
+                    56,
+                    687,
+                    825,
+                    721,
+                    822,
+                    775,
+                    54,
+                    736
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "I'm here to help answer your",
+                "bounding_box": [
+                    53,
+                    755,
+                    693,
+                    790,
+                    690,
+                    840,
+                    50,
+                    805
+                ],
+                "confidence": 0.985
+            },
+            {
+                "text": "questions and assist you with a",
+                "bounding_box": [
+                    48,
+                    831,
+                    766,
+                    862,
+                    764,
+                    915,
+                    47,
+                    881
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "variety of tasks.",
+                "bounding_box": [
+                    46,
+                    901,
+                    408,
+                    917,
+                    406,
+                    966,
+                    43,
+                    949
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "<|end_of_turn|>",
+                "bounding_box": [
+                    39,
+                    1045,
+                    387,
+                    1059,
+                    385,
+                    1109,
+                    37,
+                    1094
+                ],
+                "confidence": 0.766
+            },
+            {
+                "text": "<|user|>What is the primary",
+                "bounding_box": [
+                    30,
+                    1188,
+                    649,
+                    1220,
+                    648,
+                    1272,
+                    28,
+                    1237
+                ],
+                "confidence": 0.658
+            },
+            {
+                "text": "function of Phi?",
+                "bounding_box": [
+                    26,
+                    1257,
+                    387,
+                    1275,
+                    385,
+                    1322,
+                    24,
+                    1305
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "<|end_of_turn|>",
+                "bounding_box": [
+                    20,
+                    1332,
+                    370,
+                    1347,
+                    368,
+                    1396,
+                    18,
+                    1381
+                ],
+                "confidence": 0.743
+            },
+            {
+                "text": "<|assistant|>As an artificial",
+                "bounding_box": [
+                    18,
+                    1405,
+                    641,
+                    1433,
+                    638,
+                    1486,
+                    16,
+                    1455
+                ],
+                "confidence": 0.783
+            },
+            {
+                "text": "intelligence, Phi is primarily",
+                "bounding_box": [
+                    13,
+                    1474,
+                    642,
+                    1504,
+                    638,
+                    1563,
+                    11,
+                    1528
+                ],
+                "confidence": 0.994
+            },
+            {
+                "text": "designed to assist users by",
+                "bounding_box": [
+                    12,
+                    1548,
+                    635,
+                    1579,
+                    632,
+                    1632,
+                    11,
+                    1599
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "answering questions and",
+                "bounding_box": [
+                    10,
+                    1618,
+                    581,
+                    1644,
+                    578,
+                    1698,
+                    9,
+                    1671
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "providing information. I can help",
+                "bounding_box": [
+                    4,
+                    1691,
+                    745,
+                    1726,
+                    742,
+                    1784,
+                    3,
+                    1746
+                ],
+                "confidence": 0.995
+            },
+            {
+                "text": "with a range of tasks such as:",
+                "bounding_box": [
+                    0,
+                    1762,
+                    679,
+                    1795,
+                    676,
+                    1847,
+                    0,
+                    1813
+                ],
+                "confidence": 0.993
+            },
+            {
+                "text": "Message",
+                "bounding_box": [
+                    0,
+                    1949,
+                    186,
+                    1959,
+                    183,
+                    2009,
+                    0,
+                    1998
+                ],
+                "confidence": 0.513
+            }
+        ],
+        [
+            "MTK Phi-3.5 Inferencia",
+            "Respuestas generadas por Microsoft phi-3.5",
+            "U",
+            "\u00bfPuedes presentarte?",
+            "Phi-3.5",
+            "\u00a1Hola! Soy Phi, un asistente",
+            "digital de inteligencia artificial",
+            "desarrollado por Microsoft.",
+            "Estoy aqu\u00ed para ayudar a responder",
+            "tus preguntas y asistirte con una",
+            "variedad de tareas.",
+            "<|end_of_turn|>",
+            "<|user|>\u00bfCu\u00e1l es la funci\u00f3n",
+            "principal de Phi?",
+            "<|end_of_turn|>",
+            "<|assistant|>Como inteligencia",
+            "artificial, Phi est\u00e1 dise\u00f1ado",
+            "principalmente para ayudar a los",
+            "usuarios respondiendo preguntas",
+            "y proporcionando informaci\u00f3n.",
+            "Puedo ayudar con una variedad",
+            "de tareas como las siguientes:",
+            "Mensaje"
+        ]
+    ]
+}
